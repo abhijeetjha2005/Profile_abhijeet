@@ -1,0 +1,17 @@
+@import "tailwindcss";
+body{
+  margin: 0;
+  font-family: 'Inter',sans-serif;
+  color:#f5efe6;
+  background:
+    radial-gradient(ellipse at 0% 20%, rgba(200, 30, 40, 0.35), transparent 40%),
+    radial-gradient(ellipse at 100% 60%, rgba(30, 140, 80, 0.25), transparent 45%),
+    #06140e;
+  background-attachment: fixed; 
+}
+.font-hand {
+  font-family: 'Caveat', cursive;
+}
+.blob {
+  border-radius: 58% 42% 52% 48% / 50% 56% 44% 50%;
+}
