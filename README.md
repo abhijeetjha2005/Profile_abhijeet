@@ -1,8 +1,8 @@
 # Hi, I'm Abhijeet Kumar Jha 👋
 
-### Software Developer | Full-Stack Developer | DSA Enthusiast
+### Software Developer | Full-Stack Developer
 
-I'm a B.Tech student passionate about building full-stack web applications and improving my problem-solving skills through Data Structures & Algorithms.
+I'm a B.Tech student passionate about building full-stack web applications and learning modern technologies.
 
 ---
 
@@ -10,83 +10,46 @@ I'm a B.Tech student passionate about building full-stack web applications and i
 
 - 🎓 B.Tech student at GNIOT
 - 💻 Focused on **MERN Stack & Full-Stack Development**
-- 🧠 Practicing **Data Structures & Algorithms in Java**
-- 🌱 Currently building and improving full-stack projects
-- ⚡ Interested in building practical applications and learning new technologies
+- 🌱 Currently improving my skills in **React, Node.js, Express, and MongoDB**
+- 🧠 Interested in software development and problem solving
+- ⚡ I enjoy building practical applications and learning by creating
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
-- Vite
+HTML5 · CSS3 · JavaScript · React.js · Tailwind CSS · Vite
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
-- WebSocket
+Node.js · Express.js · REST APIs · WebSocket
 
 ### Database
-- MongoDB
-- MySQL
+MongoDB · MySQL
 
-### Programming & Tools
-- Java
-- C++
-- Git
-- GitHub
-- Postman
-- Axios
-- JWT
+### Programming
+Java · C++
+
+### Tools
+Git · GitHub · Postman · Axios · JWT
 
 ---
 
-## 📌 Featured Projects
+## 📚 Currently Learning
 
-### 💬 Baat-Chit
-
-A real-time MERN chat application with features such as:
-
-- Secure authentication
-- One-to-one messaging
-- Online/offline status
-- Typing indicators
-- File sharing
-- Voice calls
-- AI assistant
-
-**Tech:** React, Node.js, Express, MongoDB, WebSocket, JWT
-
-🔗 [GitHub](https://github.com/abhijeetjha2005/Baat-chit)
+- Full-Stack Development
+- Advanced React
+- Backend Development
+- Building scalable web applications
 
 ---
 
-### 🛒 GoMart
+## 📫 Connect With Me
 
-An AI-powered full-stack e-commerce project focused on building a practical shopping experience while exploring AI and modern web technologies.
-
-**Tech:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB
+- 📧 **Email:** abhijeethoshiyar100@gmail.com
+- 💼 **LinkedIn:** [Abhijeet Kumar Jha](https://www.linkedin.com/in/abhijeet-kumar-jha-39759132b/)
+- 🐙 **GitHub:** [abhijeetjha2005](https://github.com/abhijeetjha2005)
 
 ---
 
-## 🧩 DSA
-
-I'm practicing Data Structures & Algorithms using **Java**.
-
-Current areas include:
-
-- Arrays
-- Strings
-- Binary Search
-- Linked List
-- Doubly Linked List
-- Recursion
-- Sliding Window
-- Prefix Sum
-- Monotonic Stack
+### Thanks for visiting my profile! 👋
