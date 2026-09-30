@@ -1,6 +1,7 @@
 import React from 'react'
 import profile from '../assets/profile.jpeg'
 import { FiDownload } from 'react-icons/fi'
+
 // by using array
 const links = ['Home', 'About', 'Skills', 'Projects', 'DSA', 'Contact']
 
